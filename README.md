@@ -1,8 +1,11 @@
-# keep截图生成器
+# keep截图生成网页
 
 #### 介绍
 
-生成高仿keep运动截图, 并作为图片保存到本地.
+- 一个可以生成keep截图的网页系统。
+- keep更新了界面形式，本系统生成的是旧的界面截图
+- 新版截图生成器：[KeepSultan-Web](https://github.com/itrfcn/KeepSultan-Web) 使用python开发。
+
 
 #### 技术栈
 
@@ -12,7 +15,7 @@ html+css+js
 
 1. 本项目基于[寒冰](https://gitee.com/fyhb/keep)的思路开发重构，新增功能并优化代码结构与逻辑，提高性能。
 2. 优化网站功能，提高用户体验。
-3. 本项目的静态网页->https://keep.686909.xyz/
+3. 本项目的静态网页->[旧版keep截图](https://k2.686909.xyz/)
 
 #### 相比于原项目的改动
 
